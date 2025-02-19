@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Sneha-P2905/LeetCode/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/Sneha-P2905/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Sneha-P2905/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Sneha-P2905/LeetCode/tree/master/1236-n-th-tribonacci-number) |
