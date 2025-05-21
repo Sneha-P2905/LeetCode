@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Sneha-P2905/LeetCode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Sneha-P2905/LeetCode/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/Sneha-P2905/LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sneha-P2905/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sneha-P2905/LeetCode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Sneha-P2905/LeetCode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -31,4 +33,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sneha-P2905/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Sneha-P2905/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
