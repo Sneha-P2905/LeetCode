@@ -1,12 +1,12 @@
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
-        Max=max(nums)
-        Hash=[0]*(Max+1)
-        for i in nums:
-            Hash[i]+=1
-        for i in range(len(Hash)):
-            if Hash[i]==0:
-                return i
-        return len(Hash)
+        n=len(nums)
+        xor1=0
+        xor2=0
+        for i in range(n):
+            xor2^=nums[i]
+            xor1^=i
+        xor1^=n
+        return xor1^xor2
 
         
