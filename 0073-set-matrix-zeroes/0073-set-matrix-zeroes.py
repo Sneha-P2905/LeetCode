@@ -14,8 +14,8 @@ class Solution:
                     col[j]=0
         for i in range(m):
             for j in range(n):
-                if row[i]==1 and col[j]==1:
+                if row[i]!=0 and col[j]!=0:
                     continue
                 else:
-                    matrix[i][j]=0
+                    matrix[i][j]=0        
         
