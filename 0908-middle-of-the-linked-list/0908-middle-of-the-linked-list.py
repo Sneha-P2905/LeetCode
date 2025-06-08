@@ -15,5 +15,4 @@ class Solution:
                 temp=temp.next
                 temp1=temp1.next
         head=temp
-        return head
-        
+        return temp
