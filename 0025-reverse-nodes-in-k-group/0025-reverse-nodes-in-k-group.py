@@ -7,15 +7,15 @@ class Solution:
     def reverseKGroup(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
         dummy=ListNode(0)
         dummy.next=head
-        count=0
         curr=head
-        while count<k and curr:
+        count=0
+        while curr and count<k:
             curr=curr.next
             count+=1
         if count<k:
             return head
-        prev=None
         curr=head
+        prev=None
         for i in range(k):
             temp=curr.next
             curr.next=prev
