@@ -4,12 +4,10 @@ class MyStack:
         self.arr=[]
     def push(self, x: int) -> None:
         self.arr.append(x)
-        for i in range(len(self.arr)-1):
-            self.arr.append(self.arr.pop(0))
     def pop(self) -> int:
-        return self.arr.pop(0)
+        return self.arr.pop()
     def top(self) -> int:
-        return self.arr[0]
+        return self.arr[-1]
     def empty(self) -> bool:
         return len(self.arr)==0
 
