@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sneha-P2905/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Sneha-P2905/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Sneha-P2905/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
@@ -158,8 +159,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sneha-P2905/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Sneha-P2905/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sneha-P2905/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Sneha-P2905/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
