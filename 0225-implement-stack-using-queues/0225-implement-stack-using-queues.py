@@ -7,9 +7,9 @@ class MyStack:
         for i in range(len(self.arr)-1):
             self.arr.append(self.arr.pop(0))
     def pop(self) -> int:
-        return self.arr.pop(0)
+        return self.arr.pop(0) if self.arr else None
     def top(self) -> int:
-        return self.arr[0]
+        return self.arr[0] if self.arr else None
     def empty(self) -> bool:
         return len(self.arr)==0
 # Your MyStack object will be instantiated and called as such:
