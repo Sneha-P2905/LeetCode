@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sneha-P2905/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Sneha-P2905/LeetCode/tree/master/0125-valid-palindrome) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sneha-P2905/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Array
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sneha-P2905/LeetCode/tree/master/0054-spiral-matrix) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sneha-P2905/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sneha-P2905/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
 |  |
