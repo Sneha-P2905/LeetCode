@@ -1,7 +1,7 @@
 class Solution:
     def sumSubarrayMins(self, arr: List[int]) -> int:
-        n=len(arr)
         MOD=10**9+7
+        n=len(arr)
         stack=[]
         ple=[-1]*n
         for i in range(n):
