@@ -10,4 +10,4 @@ class Solution:
             stack.pop()
             k-=1
         result="".join(stack).lstrip("0")
-        return result if result else "0"
+        return result if result else "0" 
