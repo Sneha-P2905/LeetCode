@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sneha-P2905/LeetCode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Sneha-P2905/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Sneha-P2905/LeetCode/tree/master/0125-valid-palindrome) |
 | [0402-remove-k-digits](https://github.com/Sneha-P2905/LeetCode/tree/master/0402-remove-k-digits) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sneha-P2905/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Sneha-P2905/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Sneha-P2905/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Sneha-P2905/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Sneha-P2905/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sneha-P2905/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sneha-P2905/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sneha-P2905/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sneha-P2905/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Sneha-P2905/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Sneha-P2905/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Sneha-P2905/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sneha-P2905/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Sneha-P2905/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Sneha-P2905/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Sneha-P2905/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sneha-P2905/LeetCode/tree/master/0169-majority-element) |
