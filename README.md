@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sneha-P2905/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Sneha-P2905/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Sneha-P2905/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Sneha-P2905/LeetCode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/Sneha-P2905/LeetCode/tree/master/0402-remove-k-digits) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sneha-P2905/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Array
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Sneha-P2905/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Sneha-P2905/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sneha-P2905/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sneha-P2905/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sneha-P2905/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sneha-P2905/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Sneha-P2905/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Sneha-P2905/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sneha-P2905/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sneha-P2905/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sneha-P2905/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sneha-P2905/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sneha-P2905/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sneha-P2905/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
