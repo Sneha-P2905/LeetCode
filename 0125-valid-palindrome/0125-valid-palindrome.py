@@ -1,7 +1,5 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        if not s:
-            return True
         st=""
         for i in s:
             if i.isalnum():
@@ -16,4 +14,3 @@ class Solution:
             i+=1
             j-=1
         return True
-        
