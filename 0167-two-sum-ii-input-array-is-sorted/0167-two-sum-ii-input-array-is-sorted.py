@@ -6,4 +6,4 @@ class Solution:
             if result in d:
                 return [d[result],i+1]
             d[num]=i+1
-        return []        
+        return []
