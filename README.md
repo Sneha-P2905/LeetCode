@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sneha-P2905/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sneha-P2905/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Sneha-P2905/LeetCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Sneha-P2905/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Sneha-P2905/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sneha-P2905/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sneha-P2905/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sneha-P2905/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sneha-P2905/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sneha-P2905/LeetCode/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/Sneha-P2905/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Sneha-P2905/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sneha-P2905/LeetCode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sneha-P2905/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Sneha-P2905/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Sneha-P2905/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sneha-P2905/LeetCode/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/Sneha-P2905/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Sneha-P2905/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Sneha-P2905/LeetCode/tree/master/0085-maximal-rectangle) |
 ## Prefix Sum
