@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sneha-P2905/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Sneha-P2905/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Sneha-P2905/LeetCode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Sneha-P2905/LeetCode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Sneha-P2905/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sneha-P2905/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Sneha-P2905/LeetCode/tree/master/1013-fibonacci-number) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sneha-P2905/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sneha-P2905/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Sneha-P2905/LeetCode/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/Sneha-P2905/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sneha-P2905/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sneha-P2905/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -351,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sneha-P2905/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sneha-P2905/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
