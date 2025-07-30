@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sneha-P2905/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Sneha-P2905/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Sneha-P2905/LeetCode/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/Sneha-P2905/LeetCode/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Sneha-P2905/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sneha-P2905/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sneha-P2905/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sneha-P2905/LeetCode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/Sneha-P2905/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sneha-P2905/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Sneha-P2905/LeetCode/tree/master/0567-permutation-in-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sneha-P2905/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Array
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Sneha-P2905/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Sneha-P2905/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Sneha-P2905/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Sneha-P2905/LeetCode/tree/master/0567-permutation-in-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sneha-P2905/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search
 |  |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sneha-P2905/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Sneha-P2905/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sneha-P2905/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Sneha-P2905/LeetCode/tree/master/0567-permutation-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
