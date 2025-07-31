@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Sneha-P2905/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Sneha-P2905/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sneha-P2905/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Sneha-P2905/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sneha-P2905/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/Sneha-P2905/LeetCode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sneha-P2905/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sneha-P2905/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Sneha-P2905/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sneha-P2905/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Sneha-P2905/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
