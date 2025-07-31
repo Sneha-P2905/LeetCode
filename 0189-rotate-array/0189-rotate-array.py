@@ -5,10 +5,9 @@ class Solution:
         """
         n=len(nums)
         k=k%n
-        a=nums[n-k:]
-        b=nums[:n-k]
-        nums[n-k:]=a[::-1]
-        nums[:n-k]=b[::-1]
-        nums[:]=nums[::-1]
-        
-        
+        temp=nums[n-k:]
+        for i in range(n-1,-1,-1):
+            nums[i]=nums[i-k]
+        for i in range(k):
+            nums[i]=temp[i]
+        return nums
