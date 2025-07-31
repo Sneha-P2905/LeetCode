@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Sneha-P2905/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/Sneha-P2905/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sneha-P2905/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Sneha-P2905/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Sneha-P2905/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Sneha-P2905/LeetCode/tree/master/0567-permutation-in-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sneha-P2905/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Sneha-P2905/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Sneha-P2905/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Sneha-P2905/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Sneha-P2905/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Simulation
 |  |
 | ------- |
