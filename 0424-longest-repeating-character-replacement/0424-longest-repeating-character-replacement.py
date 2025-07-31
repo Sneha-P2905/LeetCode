@@ -1,13 +1,11 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
-        if len(s)==0:
-            return 0
-        seen=set()
-        count={}
-        max_count=float("-inf")
+        n=len(s)
         max_length=float("-inf")
+        max_count=float("-inf")
+        count={}
         left=0
-        for right in range(len(s)):
+        for right in range(n):
             char=s[right]
             if char not in count:
                 count[char]=0
@@ -17,4 +15,4 @@ class Solution:
                 count[s[left]]-=1
                 left+=1
             max_length=max(max_length,right-left+1)
-        return max_length        
+        return max_length
