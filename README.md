@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Sneha-P2905/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sneha-P2905/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Sneha-P2905/LeetCode/tree/master/0567-permutation-in-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sneha-P2905/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sneha-P2905/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Array
 |  |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Sneha-P2905/LeetCode/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/Sneha-P2905/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sneha-P2905/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sneha-P2905/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2227-sum-of-subarray-ranges](https://github.com/Sneha-P2905/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Merge Sort
 |  |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sneha-P2905/LeetCode/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Sneha-P2905/LeetCode/tree/master/0402-remove-k-digits) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sneha-P2905/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Sliding Window
 |  |
 | ------- |
